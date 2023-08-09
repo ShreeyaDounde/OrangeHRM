@@ -1,0 +1,7 @@
+[32mINFO    [0m Test_Login:test_Login.py:31 Testcase test_login_002 is started
+[32mINFO    [0m Test_Login:test_Login.py:32 Opening browser
+[32mINFO    [0m Test_Login:test_Login.py:35 Entering Username
+[32mINFO    [0m Test_Login:test_Login.py:37 Entering password
+[32mINFO    [0m Test_Login:test_Login.py:39 Clicking in login button
+[32mINFO    [0m Test_Login:test_Login.py:42 Checking login status
+[32mINFO    [0m Test_Login:test_Login.py:56 Testcase test_login_002 is failed

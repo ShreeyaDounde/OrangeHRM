@@ -1,0 +1,6 @@
+[32mINFO    [0m Test_Login:test_Login.py:13 Testcase test_page_title_001 is started
+[32mINFO    [0m Test_Login:test_Login.py:14 Opening browser
+[32mINFO    [0m Test_Login:test_Login.py:16 Page Title is OrangeHRM
+[32mINFO    [0m Test_Login:test_Login.py:18 Taking screenshot
+[32mINFO    [0m Test_Login:test_Login.py:19 Taking screenshot
+[32mINFO    [0m Test_Login:test_Login.py:22 Testcase test_page_title_001 is passed
